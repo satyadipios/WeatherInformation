@@ -37,7 +37,7 @@ This application has been developed in Xcode 13.2.1
 1) Clone the repository
 
 ```bash
-$ git clone https://github.com/satyadipios/WeatherInformation.git 
+$ git clone https://github.com/satyadipios/WeatherInformation.git
 ```
 2) Open the application from Xcode and Run 
 
