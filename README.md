@@ -6,7 +6,7 @@ Swift Language Weather
 **Swift Language Weather** is an iPhone application. The app is allowing user to input city as per choice and App will display current temperature. By default app will display temperature in Farenheit and user can also chgane mode of temperature from settings screen.
  
 ## Version 4
-This application has been developed in Xcode 13.2.1  
+This application has been developed in Xcode 13.2.1 & Swift 5, Supported version iOS 15 and above
 
  
 ## Screenshots
@@ -28,9 +28,11 @@ This application has been developed in Xcode 13.2.1
 * Network call (Async/await)
 * Protocol-Oriented Programming 
 * Dependency Injection
-* Unit Tests
+* Alamofire
+* Unit Tests 
 * UI Tests
 * Storyboard 
+
 
 ## How to build
 
@@ -39,12 +41,11 @@ This application has been developed in Xcode 13.2.1
 ```bash
 $ git clone https://github.com/satyadipios/WeatherInformation.git
 ```
-2) Open the application from Xcode and Run 
+2) Open the application from Xcode and Run WeatherInformation.xcworkspace (If it's showing any error to run, install pods otherwie there is no need to install Podfile)
 
 # Requirements
 
-* Xcode 13
-* Swift 5
+* Xcode 13 and above 
 
 # Notes 
 Weather application has been tested in iPhone simulator (iOS 15.2)  
